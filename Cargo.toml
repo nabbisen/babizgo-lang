@@ -1,0 +1,10 @@
+[package]
+name = "babisgo-lang"
+version = "0.1.0"
+authors = ["nabbisen <heddi.nabbisen@gmail.com>"]
+
+[dependencies]
+
+[dependencies.mecab]
+git = "https://github.com/tsurai/mecab-rs"
+
